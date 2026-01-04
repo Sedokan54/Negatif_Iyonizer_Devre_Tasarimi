@@ -36,6 +36,7 @@ Tasarımda kullanılan temel bileşenler aşağıdaki gibidir:
 | **Kapasitör** | 150nF 1000V | 36 | Metalize Polyester Film |
 | **Termistör** | NTC 10R | 1 | Inrush (Kalkış) Akımı Sınırlayıcı |
 | **Sigorta** | 0.5A | 1 | Gecikmeli Tip (Time-Lag) |
+| **Klemens** | 5MM 2P | 2 | DG128-5.0-02P-14-00AH |
 
 ## Kurulum ve Üretim
 
