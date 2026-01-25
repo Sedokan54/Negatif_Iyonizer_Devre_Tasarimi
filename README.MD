@@ -37,6 +37,7 @@ Tasarımda kullanılan temel bileşenler aşağıdaki gibidir:
 | **Termistör** | NTC 10R | 1 | Inrush (Kalkış) Akımı Sınırlayıcı |
 | **Sigorta** | 0.5A | 1 | Gecikmeli Tip (Time-Lag) |
 | **Klemens** | 5MM 2P | 2 | DG128-5.0-02P-14-00AH |
+| **Bakır Plaka** | 10X20cm | 1 | FR4 |
 
 ## Kurulum ve Üretim
 
